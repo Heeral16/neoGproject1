@@ -8,8 +8,5 @@ Hi, this project is just a test of my github learning. There's nothing great her
 
 _this is italic font_
 
-[]this is checkbox
--this is bullet
-
 | col1 | col2 |
 | col1 | col2 |
